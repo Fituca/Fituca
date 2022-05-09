@@ -1,6 +1,9 @@
 Hello there, my name is Nicolas (aka Fituca), and im from Brazil.
+
 I'm learning how to code on C#, thats why im here!
+
 Nothing more to say...
+
 Console.WriteLine("👍")
 
 <!---
